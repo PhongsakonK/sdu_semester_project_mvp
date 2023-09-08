@@ -1,0 +1,15 @@
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/bin/Debug/net7.0/project_mvp
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/bin/Debug/net7.0/project_mvp.deps.json
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/bin/Debug/net7.0/project_mvp.runtimeconfig.json
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/bin/Debug/net7.0/project_mvp.dll
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/bin/Debug/net7.0/project_mvp.pdb
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.csproj.AssemblyReference.cache
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.AssemblyInfoInputs.cache
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.AssemblyInfo.cs
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.csproj.CoreCompileInputs.cache
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.dll
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/refint/project_mvp.dll
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.pdb
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/project_mvp.genruntimeconfig.cache
+/Users/phongsakonkonrad/Desktop/SDU/SEMESTER_PROJECT_1/project_mvp/obj/Debug/net7.0/ref/project_mvp.dll
